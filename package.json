@@ -1,0 +1,17 @@
+{
+  "name": "xl-release-button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.coffee",
+  "scripts": {
+    "start": "node_modules/coffee-script/bin/coffee main.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "1.9.1",
+    "open": "0.0.5",
+    "requestify": "0.1.17"
+  }
+}
